@@ -1,6 +1,7 @@
 # UITabBarItem-GJRedDot
 通过系统原生UITabBarItem添加小红点功能
-```objective-c
+```
+  objective-c
 //VC中的方法
 - (void)methodVC {
   //self就是VC
